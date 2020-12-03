@@ -14,10 +14,7 @@
                 HorizontalOptions="FillAndExpand"
                 VerticalOptions="FillAndExpand" />
 
-            <ultimateChart:SupportRadarChartExtended
-                x:Name="radarChart2"
-                HorizontalOptions="FillAndExpand"
-                VerticalOptions="FillAndExpand" />
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
