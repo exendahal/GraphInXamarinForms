@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="GraphInXamarinForms.RadarChartPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:ultimateChart="clr-namespace:UltimateXF.Widget.Charts;assembly=UltimateXF">
+    <ContentPage.Content>
+        <StackLayout
+            Padding="10"
+            Orientation="Vertical"
+            Spacing="20">
+            <ultimateChart:SupportRadarChartExtended
+                x:Name="radarChart"
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand" />
+
+            <ultimateChart:SupportRadarChartExtended
+                x:Name="radarChart2"
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

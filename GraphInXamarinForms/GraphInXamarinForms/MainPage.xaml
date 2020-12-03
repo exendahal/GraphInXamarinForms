@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="GraphInXamarinForms.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:ultimateChart="clr-namespace:UltimateXF.Widget.Charts;assembly=UltimateXF">
+
+    <StackLayout>
+        <ScrollView>
+            <StackLayout>
+                <Button Clicked="Button_Clicked" Text="BarChartPage" />
+                <Button Clicked="Button_Clicked_1" Text="BubbleChartPage" />
+                <Button Clicked="Button_Clicked_2" Text="CandleStickChartPage" />
+                <Button Clicked="Button_Clicked_3" Text="CombinedChartPage" />
+                <Button Clicked="Button_Clicked_4" Text="HorizontalBarCharPage" />
+                <Button Clicked="Button_Clicked_5" Text="LineChartPage" />
+                <Button Clicked="Button_Clicked_6" Text="PieChartPage" />
+                <Button Clicked="Button_Clicked_7" Text="RadarChartPage" />
+            </StackLayout>
+        </ScrollView>
+
+    </StackLayout>
+
+</ContentPage>
