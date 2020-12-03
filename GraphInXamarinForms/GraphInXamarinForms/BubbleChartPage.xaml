@@ -14,10 +14,7 @@
                 HorizontalOptions="FillAndExpand"
                 VerticalOptions="FillAndExpand" />
 
-            <ultimateChart:SupportBubbleChartExtended
-                x:Name="chart2"
-                HorizontalOptions="FillAndExpand"
-                VerticalOptions="FillAndExpand" />
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

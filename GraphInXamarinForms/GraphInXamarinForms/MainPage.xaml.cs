@@ -67,6 +67,12 @@ namespace GraphInXamarinForms
         private void Button_Clicked_7(object sender, EventArgs e)
         {
             Navigation.PushModalAsync(new RadarChartPage());
+            
+        }
+
+        private void Button_Clicked_8(object sender, EventArgs e)
+        {
+            Navigation.PushModalAsync(new ScatterChartPage());
         }
     }
 }

@@ -8,14 +8,15 @@
     <StackLayout>
         <ScrollView>
             <StackLayout>
-                <Button Clicked="Button_Clicked" Text="BarChartPage" />
-                <Button Clicked="Button_Clicked_1" Text="BubbleChartPage" />
-                <Button Clicked="Button_Clicked_2" Text="CandleStickChartPage" />
-                <Button Clicked="Button_Clicked_3" Text="CombinedChartPage" />
-                <Button Clicked="Button_Clicked_4" Text="HorizontalBarCharPage" />
-                <Button Clicked="Button_Clicked_5" Text="LineChartPage" />
-                <Button Clicked="Button_Clicked_6" Text="PieChartPage" />
-                <Button Clicked="Button_Clicked_7" Text="RadarChartPage" />
+                <Button Clicked="Button_Clicked" Text="Bar Chart" />
+                <Button Clicked="Button_Clicked_1" Text="Bubble Chart" />
+                <Button Clicked="Button_Clicked_2" Text="Candle StickChart" />
+                <Button Clicked="Button_Clicked_3" Text="Combined Chart" />
+                <Button Clicked="Button_Clicked_4" Text="Horizontal Bar Chart" />
+                <Button Clicked="Button_Clicked_5" Text="Line Chart" />
+                <Button Clicked="Button_Clicked_6" Text="Pie Chart" />
+                <Button Clicked="Button_Clicked_7" Text="Radar Chart" />
+                <Button Clicked="Button_Clicked_8" Text="Scatter Chart" />
             </StackLayout>
         </ScrollView>
 
