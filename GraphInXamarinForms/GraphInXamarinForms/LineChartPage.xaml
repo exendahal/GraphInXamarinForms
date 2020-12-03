@@ -16,10 +16,7 @@
                 HorizontalOptions="FillAndExpand"
                 VerticalOptions="FillAndExpand" />
 
-            <ultimateChart:SupportLineChartExtended
-                x:Name="chart2"
-                HorizontalOptions="FillAndExpand"
-                VerticalOptions="FillAndExpand" />
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
