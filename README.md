@@ -1,5 +1,5 @@
 # Graphs in Xamarin Forms
-MPAndroidChart/iOSChart for Xamarin Forms Custom Renderer
+MPAndroidChart/iOSChart for Xamarin Forms Custom Renderer <br>
 Based on: https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT <br>
 Nuget: https://www.nuget.org/packages/UltimateXF/
 
